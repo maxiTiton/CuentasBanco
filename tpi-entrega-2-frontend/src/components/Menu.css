@@ -1,0 +1,25 @@
+.custom-navbar {
+    background-color: #0078f0; /* Un gris claro para el fondo */
+    box-shadow: 0 2px 4px rgba(0,0,0,.1); /* Sombra sutil para dar profundidad */
+    padding: 5px 0;
+}
+
+.nav-link {
+    color: #ffffff; /* Color azul para los enlaces */
+    transition: color .3s; /* Transición suave para el color */
+    font-size: 1.2rem;
+}
+
+.nav-link:hover {
+    color: #000000; /* Un azul más oscuro al pasar el mouse */
+}
+
+.navbar-toggler {
+    border-color: #ffffff; /* Color del botón del toggler */
+}
+
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,/* SVG para el icono personalizado */");
+}
+
+
